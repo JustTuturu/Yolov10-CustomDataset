@@ -1,5 +1,5 @@
 ultralytics==8.2.79
-streamlit==1.37.1
+streamlit==1.54.0
 opencv-python-headless==4.10.0.84
 supervision==0.22.0
 htbuilder==0.6.2
